@@ -23,3 +23,6 @@ Useful sentences collected from papers.
 
    > Isolating Sources of Disentanglement in Variational Autoencoders, NIPS 2018
 
+6. Evaluating generative models is hard, there are no clear-cut success criteria for autoencoder reconstrction.
+
+   > Adversarial Images for Variational Autoencoders, NIPS 2016 Workshop
