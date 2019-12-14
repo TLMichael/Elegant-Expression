@@ -23,6 +23,11 @@ Useful sentences collected from papers.
 
    > Isolating Sources of Disentanglement in Variational Autoencoders, NIPS 2018
 
-6. Evaluating generative models is hard, there are no clear-cut success criteria for autoencoder reconstrction.
+6. Evaluating generative models is hard, there are no clear-cut success criteria for autoencoder reconstruction.
 
    > Adversarial Images for Variational Autoencoders, NIPS 2016 Workshop
+
+7. - ... we have omitted the corresponding input vectors from the right-hand side of the conditioning statements to simplify the notation.
+   - Here we have omitted the dependence on the input variable $\textbf{x}$ to keep the notation uncluttered.
+
+   > Pattern Recognition and Machine Learning. Page 156 & Page 165.
