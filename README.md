@@ -31,3 +31,9 @@ Useful sentences collected from papers.
    - Here we have omitted the dependence on the input variable $\textbf{x}$ to keep the notation uncluttered.
 
    > Pattern Recognition and Machine Learning. Page 156 & Page 165.
+
+8. In this work, we are able to answer both of these questions **affirmatively**, by proposing and analyzing ...
+
+   > Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Balls, arXiv preprint.
+
+9. 
