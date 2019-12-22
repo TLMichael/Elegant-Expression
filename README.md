@@ -34,6 +34,10 @@ Useful sentences collected from papers.
 
 8. In this work, we are able to answer both of these questions **affirmatively**, by proposing and analyzing ...
 
-   > Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Balls, arXiv preprint.
+   > Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Balls, arXiv preprint, 2019.
 
-9. 
+9. The matrix dimensions $d$ and $m$ are both in the thousands or above, and the number of functions (data points) $n$ is in the millions or more.
+
+   > A distributed Frank–Wolfe framework for learning low-rank matrices with the trace norm, Machine Learning, 2018.
+
+10. 
