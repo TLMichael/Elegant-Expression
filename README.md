@@ -36,8 +36,13 @@ Useful sentences collected from papers.
 
    > Communication-Efficient Asynchronous Stochastic Frank-Wolfe over Nuclear-norm Balls, arXiv preprint, 2019.
 
-9. The matrix dimensions $d$ and $m$ are both in the thousands or above, and the number of functions (data points) $n$ is in the millions or more.
+9. The matrix dimensions $d$ and $m$ are both **in the thousands or above**, and the number of functions (data points) $n$ is **in the millions or more**.
 
    > A distributed Frank–Wolfe framework for learning low-rank matrices with the trace norm, Machine Learning, 2018.
 
-10. 
+10. We present an optimization method that offers empirically **the best of both worlds**: our algorithm yields good generalization performance while requiring only one hyper-parameter.
+
+    > Deep Frank-Wolfe For Neural Network Optimization, ICLR 2019.
+
+11. 
+
