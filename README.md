@@ -44,5 +44,8 @@ Useful sentences collected from papers.
 
     > Deep Frank-Wolfe For Neural Network Optimization, ICLR 2019.
 
-11. 
+11. The quality of each model can be appreciated in figure.
 
+    > Adversarial Attacks on Variational Autoencoders, arXiv preprint, 2018
+
+12. 
