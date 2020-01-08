@@ -48,4 +48,8 @@ Useful sentences collected from papers.
 
     > Adversarial Attacks on Variational Autoencoders, arXiv preprint, 2018
 
-12. 
+12. Pushing the **envelope** with a lager model.
+
+    > Adversarial Examples Improve Image Recognition, arXiv preprint, 2019
+
+13. 
