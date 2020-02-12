@@ -52,4 +52,9 @@ Useful sentences collected from papers.
 
     > Adversarial Examples Improve Image Recognition, arXiv preprint, 2019
 
-13. 
+13. But even with this note of caution, we believe this work offers exciting avenues for future work.
+
+    > Are Generative Classifiers More Robust to Adversarial Attacks?, ICML 2019.
+
+14. 
+
