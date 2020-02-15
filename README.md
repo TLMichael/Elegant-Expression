@@ -56,5 +56,9 @@ Useful sentences collected from papers.
 
     > Are Generative Classifiers More Robust to Adversarial Attacks?, ICML 2019.
 
-14. 
+14. It is therefore not surprising that generative models have gained momentum such as computer vision and chemistry.
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+15. 
 
