@@ -52,7 +52,7 @@ Useful sentences collected from papers.
 
     > Adversarial Examples Improve Image Recognition, arXiv preprint, 2019
 
-13. But even with this note of caution, we believe this work offers exciting avenues for future work.
+13. But **even with this note of caution**, we believe this work offers **exciting avenues** for future work.
 
     > Are Generative Classifiers More Robust to Adversarial Attacks?, ICML 2019.
 
@@ -60,5 +60,40 @@ Useful sentences collected from papers.
 
     > From Variational to Deterministic Autoencoders, ICLR 2020
 
-15. 
+15. Learning a VAE **amounts to** the optimization of an objective **balancing** the quality of samples that are autoencoded through a stochastic encoder-decoder pair **while** encouraging the latent space to follow a fixed prior distribution.
 
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+16. Since their introduction, VAEs have become **one of the frameworks of choice** among the different generative models.
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+17. A major weakness of VAEs is the tendency to **strike an unsatisfying compromise between** sample quality **and** reconstruction quality.
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+18. We thank all the reviewers for **appreciating the direction of our work** and its relevance for the generative modeling community.  We agree that the evaluation of generative models is a nontrivial problem and a very active field. We **appreciate** the **constructive criticisms** and would **gladly accommodate additional experiments** that would improve the paper's quality.
+
+    > https://openreview.net/forum?id=S1g7tpEYDS
+
+19. **Striving** for simplicity, we employ ...
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+20. While computing the Jacobian for CAEs is close **in spirit** to $\mathcal{L}_{\mathrm{GP}}$for RAEs.
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+21. VQ-VAEs **necessitates** complex discrete autoregressive density estimators and a training loss that is non-differentiable due to quantizing $\mathrm{Z}$.
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+22. The evaluation of generative models is a nontrivial question. We report here the ubiquitous FID ...
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+23. While the theoretical derivation of the VAE has helped popularize the framework for generative modeling, recent works have started to expose some **discrepancies between theory and practice**.
+
+    > From Variational to Deterministic Autoencoders, ICLR 2020
+
+24. 
