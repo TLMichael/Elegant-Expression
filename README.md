@@ -96,4 +96,56 @@ Useful sentences collected from papers.
 
     > From Variational to Deterministic Autoencoders, ICLR 2020
 
-24. 
+24. **The bulk of research** in variational inference over the years has been **on ways in which to** compute the gradient of the expected log-likelihood $\nabla_{\phi} \mathbb{E}_{q_{\phi}(z)}[\log p(\mathbf{x} | \mathbf{z})]$.
+
+    > Variational Inference with Normalizing Flows, ICML 2015
+
+25. In this paper we work towards this **ultimate vision**, in addition to intermediate applications, by aiming to improve upon the state-of-the-art of generative models.
+
+    > Glow: Generative flow with invertible 1×1 convolutions, NIPS 2018
+
+26. The **discipline** of generative modeling **has experienced enormous leaps** in **capabilities** in recent years.
+
+    > Glow: Generative flow with invertible 1×1 convolutions, NIPS 2018
+
+27. GANs are **arguably** best known for their ability to synthesize large and realistic images.
+
+    > Glow: Generative flow with invertible 1×1 convolutions, NIPS 2018
+
+28. The **essence** of the framework is the class `Engine`.
+
+    > https://pytorch.org/ignite/concepts.html
+
+29. **Provided by courtesy of** the authors of [17].
+
+    > Variational autoencoders pursue pca directions (by accident), CVPR 2019
+
+30. Exemplarily, a latent traversal for a $\beta$-VAE is shown in Fig. 1
+
+    > Variational autoencoders pursue pca directions (by accident), CVPR 2019
+
+31. Such observations have **planted a suspicion** that the **inner workings** of the VAE are not sufficiently understood.
+
+    > Variational autoencoders pursue pca directions (by accident), CVPR 2019
+
+32. **as we are about to see**, this diagonalization comes with beneficial effects **regarding** disentanglement.
+
+    > Variational autoencoders pursue pca directions (by accident), CVPR 2019
+
+33. One of the key **aspirations** in recent machine learning research is to ...
+
+    > BIVA: A Very Deep Hierarchy of Latent Variables for Generative Modeling, NIPS 2019
+
+34. The **ever-increasing** size of modern data sets ...
+
+    > Semi-supervised learning with deep generative models, NIPS 2014
+
+35. Such problems are **of immense practical interest** in a wide range of applications.
+
+    > Semi-supervised learning with deep generative models, NIPS 2014
+
+36. These adversarial at- tacks present a security risk to deployed ANNs and indicate a **divergence between how ANNs and humans** perform classification.
+
+    > Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks, ICLR 2020
+
+37. 
