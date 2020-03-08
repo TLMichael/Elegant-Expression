@@ -148,4 +148,36 @@ Useful sentences collected from papers.
 
     > Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks, ICLR 2020
 
-37. 
+37. Although artificial neural networks (ANNs) have recently begun to **rival** human performance on various tasks.
+
+    > Biologically inspired sleep algorithm for increased generalization and adversarial robustness in deep neural networks, ICLR 2020
+
+38. Current attack methods lack control over where the attack occurs, **opting to** attack all pixels **indiscriminately**.
+
+    > Unrestricted Adversarial Examples via Semantic Manipulation, ICLR 2020
+
+39. Though there could be **oscillations**, we find that the attack strengths **do grow monotonically with respect to** the evolution iterations in our experiments.
+
+    > NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks, ICML 2019
+
+40. It evades a standard MNIST model **using** just **12 queries on average**. Similar performance is observed on a standard IMAGENET model **with** **an average of 579 queries**.
+
+    > Sign Bits Are All You Need for Black-Box Attacks, ICLR 2020
+
+41. **Central to** their approaches is estimating the gradient.
+
+    > Sign Bits Are All You Need for Black-Box Attacks, ICLR 2020
+
+42. After the **dissemination** of this work, a more general result was published in ...
+
+    > Certified Adversarial Robustness via Randomized Smoothing, ICML 2019
+
+43. Note that the stability objective used here is **similar in spirit to**, but **different in context from**, the stability training used in Zheng et al. (2016); Li et al. (2019).
+
+    > Black-box Smoothing: A Provable Defense for Pretrained Classifiers, ICLR 2020 Workshop
+
+44. we investigate this intriguing, yet **thus far** overlooked **aspect** of adversarial training.
+
+    > Improving Adversarial Robustness Requires Revisiting Misclassified Examples, ICLR 2020
+
+45. 
