@@ -180,4 +180,44 @@ Useful sentences collected from papers.
 
     > Improving Adversarial Robustness Requires Revisiting Misclassified Examples, ICLR 2020
 
-45. 
+45. We encourage readers to pause after this section to **reflect on** how one might attack the described defense before reading our method.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+46. Importantly, we do not wish to claim that the robustness techniques used by many of these defenses hold **no merit whatsoever**.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+47. This **mirrors** our own **mental model** when assessing the robustness of this defense.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+48. Rather than **delving into** the theory of Variational Auto-Encoders, we present here the high-level classification algorithm implemented in the source code released by the authors.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+49. Deep generative models **tend to** be much more complex than standard discriminative models, so the complexity of this defense is not **unwarranted**.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+50. **Towards that end**, we perform the analysis that **we would have liked to see** in the original paper.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+51. While **theoretically grounded arguments** are encouraged, it is counterproductive to add **“decorative math”** whose primary purpose is to make the submission look more substantial or even intimidating, without adding significant insight.
+
+    > https://nips.cc/Conferences/2020/CallForPapers
+    
+52. The attack themes we distill in Section 4 are not **hard-and-fast rules**: it is possible to evade defenses while also (**knowingly**) disregarding them.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+53. Our guess **as to why this may happen** comes from our experience with the original attack codebase, which is not a simple attack and can thus be hard to debug.
+
+    > On Adaptive Attacks to Adversarial Example Defenses, arxiv 2020
+
+54. This phenomenon has **been widely studied both from the theoretical and empirical perspectives** , and remains such a hallmark of deep learning practice that **it is often taken for granted.**
+
+    > Overfitting in adversarially robust deep learning, arxiv 2020
+
+55. 
