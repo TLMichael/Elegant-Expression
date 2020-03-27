@@ -220,4 +220,25 @@ Useful sentences collected from papers.
 
     > Overfitting in adversarially robust deep learning, arxiv 2020
 
-55. 
+55. The big **catch** is that we have to choose a way to quantify the size $\left\| \nabla \mathcal{D}\right\|$ of the discriminator’s gradients!
+
+    > https://f-t-s.github.io/projects/icr/
+
+56. Our adversarial all-layer margin **circumvents** this lower bound because it considers all layers of the network rather than just the output.
+
+    > Improved Sample Complexities for Deep Networks and Robust Classification via an All-Layer Margin, ICLR 2020
+
+57. which is more **amenable** for capturing complex distribution manifested in the data.
+
+    > You Look Twice: GaterNet for Dynamic Filter Selection in CNNs, CVPR 2019
+
+58. The core of the idea is to introduce a dedicated gater network to **take a glimpse of the input**, and then generate input-dependent binary gates to select filters in the backbone network for processing the input.
+
+    > You Look Twice: GaterNet for Dynamic Filter Selection in CNNs, CVPR 2019
+
+59. That will likely introduce new and healthy **accountability** into your research lives.
+
+    > https://medium.com/@BrentH/suggestions-for-writing-neurips-2020-broader-impacts-statements-121da1b765bf
+
+60. 
+
