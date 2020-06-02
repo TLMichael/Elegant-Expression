@@ -52,13 +52,10 @@ Useful sentences collected from papers.
 
     > Adversarial Examples Improve Image Recognition, arXiv preprint, 2019
 
-<<<<<<< HEAD
 13. Developments in zeroth order optimization has been **fueled** by various applications ranging from problems in medical science, material science and chemistry.
 
     >Towards Gradient Free and Projection Free Stochastic Optimization, AISTATS 2019
 
-14. 
-=======
 13. But **even with this note of caution**, we believe this work offers **exciting avenues** for future work.
 
     > Are Generative Classifiers More Robust to Adversarial Attacks?, ICML 2019.
@@ -248,5 +245,3 @@ Useful sentences collected from papers.
     > https://medium.com/@BrentH/suggestions-for-writing-neurips-2020-broader-impacts-statements-121da1b765bf
 
 60. 
-
->>>>>>> 82f3cd79a263d99e3b8670849130a2db123baaaa
