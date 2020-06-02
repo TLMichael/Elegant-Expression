@@ -52,4 +52,8 @@ Useful sentences collected from papers.
 
     > Adversarial Examples Improve Image Recognition, arXiv preprint, 2019
 
-13. 
+13. Developments in zeroth order optimization has been **fueled** by various applications ranging from problems in medical science, material science and chemistry.
+
+    >Towards Gradient Free and Projection Free Stochastic Optimization, AISTATS 2019
+
+14. 
