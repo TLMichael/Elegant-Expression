@@ -244,4 +244,37 @@ Useful sentences collected from papers.
 
     > https://medium.com/@BrentH/suggestions-for-writing-neurips-2020-broader-impacts-statements-121da1b765bf
 
-60. 
+61. **A long line of work** has explored transferring knowledge from one model to another.
+
+    > Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020
+
+62. **Despite notable progress**, synthesizing high fidelity and high resolution natural images from a deep network **remains challenging**.
+
+    > Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion, CVPR 2020
+
+63. The **rationale** for this approach is mainly that obtaining human labels is expensive, which encourages the use of a single attack for all models.
+
+    > Fundamental Tradeoffs between Invariance and Sensitivity to Adversarial Perturbations, ICML 2020
+
+64. In follow-up work, GAN research **yielded a steady stream of innovations**, which pushed the state-of-the-art further
+
+    > Leveraging Frequency Analysis for Deep Fake Image Recognition, ICML 2020
+
+65. To **side-step** the arms race between attacks and defenses, in Section 4, we ...
+
+    > Certified Defenses for Adversarial Patches, ICLR 2020
+
+66. Unfortunately, we cannot easily draw samples from pθ(x), so we must **resort to** MCMC to use this gradient estimator.
+
+    > Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One, ICLR 2020
+
+67. While this may seem **prohibitive**, we believe the results presented in this work are sufficient to motivate the community to find solutions to these issues
+
+    > Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One, ICLR 2020
+
+68. This implies that $L_\infty$ evaluations are a narrow measure of robustness, even though much of the literature treats this evaluation as comprehensive.
+
+    > Testing Robustness Against Unforeseen Adversaries, arxiv preprint, 2019
+
+69. 
+
