@@ -272,9 +272,37 @@ Useful sentences collected from papers.
 
     > Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One, ICLR 2020
 
-68. This implies that $L_\infty$ evaluations are a narrow measure of robustness, even though much of the literature treats this evaluation as comprehensive.
+68. This implies that $L_\infty$ evaluations are a narrow measure of robustness, even though **much of the literature** treats this evaluation as comprehensive.
 
     > Testing Robustness Against Unforeseen Adversaries, arxiv preprint, 2019
 
-69. 
+69. **Drawing a parallel to** medicine, suppose we wanted to replicate a study about the effect of a certain drug on an age-linked disease.
+
+    > Identifying Statistical Bias in Dataset Replication, ICML 2020
+
+70. As such, the **seamless integration** of causation tools [41] into machine learning pipelines remains cumbersome, disallowing what we believe to be a powerful **synergy**.
+
+    > Invariant Risk Minimization, arxiv preprint, 2020
+
+71. Therefore, reliance on background is a **nuanced** question that **merits** further study.
+
+    > Noise or Signal: The Role of Image Backgrounds in Object Recognition, arxiv preprint, 2020
+
+72. **This puts into question the conjecture that** neural networks disentangle variation factors across coordinates.
+
+    > Intriguing properties of neural networks, ICLR 2020
+
+73. Our findings **shed light on** current differences between human vision and DNN-based computer vision.
+
+    > Deep neural networks are easily fooled: High confidence predictions for unrecognizable images, CVPR 2015
+
+74. In this paper we **articulate** and systematically study seven robustness hypotheses.
+
+    > The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization, arxiv preprint, 2020
+
+75. Though the exact **underpinnings** of transfer learning are not fully understood, recent work has identified factors that make pre-trained ImageNet models **amenable** to transfer learning.
+
+    > Do Adversarially Robust ImageNet Models Transfer Better?, arxiv preprint, 2020
+
+76. 
 
