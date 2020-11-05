@@ -304,5 +304,65 @@ Useful sentences collected from papers.
 
     > Do Adversarially Robust ImageNet Models Transfer Better?, arxiv preprint, 2020
 
-76. 
+76. We can explain how wearing shoes to bed and headaches are associated **without either being a cause of the other**.
+
+    > Introduction to Causal Inference from a Machine Learning Perspective, 2020
+
+77. This is **a far cry from** the precision and reliability of digital electronics.
+
+    > Learning compositional functions via multiplicative weight updates, arxiv preprint, 2020
+
+78. Multiplicative algorithms have a **storied history** in computer science.
+
+    > Learning compositional functions via multiplicative weight updates, arxiv preprint, 2020
+
+79. Some recent works began to study adversarial robustness by **exploring the spectrum** between classification accuracy and network interpretability.
+
+    > Proper Network Interpretability Helps Adversarial Robustness in Classification, ICML 2020
+
+80. **Pushing The Envelope** with a Larger Model.
+
+    > Adversarial Examples Improve Image Recognition, CVPR 2020
+
+81. **We lack theories to fully characterize general, possibly non-linear, function pairs.**
+
+    > Learning De-Biased Representations with Biased Representations, ICML 2020
+
+82. **Prior to the deployment of** such a system... **Before the wide deployment of** automatic spam classification...
+
+    > Paragraph: Thwarting Signature Learning by Training Maliciously, Recent advances in intrusion detection 2006
+
+83. Previous work has investigated attacks and defenses for data poisoning attacks applied to feature selection, SVMs, linear regression, and PCA, **to name a few**.
+
+    > Certified Robustness to Label-Flipping Attacks via Randomized Smoothing, ICML 2020
+
+84. This perspective allows us to reason about how changes to training data affect the classifier at test time, **reminiscent of** work on influence functions of deep neural networks.
+
+    > Certified Robustness to Label-Flipping Attacks via Randomized Smoothing, ICML 2020
+
+85. On the practical side, **the myriad of works** that propose new architectures are typically motivated by some informal intuition on their effect on the inductive bias of the network.
+
+    > Neural Anisotropy Directions, NeurIPS 2020
+
+86.  **Focusing on** these patterns, we can say that NADs act as a unique signature of an architecture.
+
+    > Neural Anisotropy Directions, NeurIPS 2020
+
+87. Finally, we show that these theoretical findings **are in excellent agreement with** a series of experiments.
+
+    > Towards Understanding the Dynamics of the First-Order Adversaries, ICML 2020
+
+88. Since adversarial robustness is a learning problem, the statistical perspective **is of integral importance**.
+
+    > Adversarially Robust Generalization Requires More Data, NeurIPS 2018
+
+89. Hence **no amount of algorithmic ingenuity** is able to overcome this limitation.
+
+    > Adversarially Robust Generalization Requires More Data, NeurIPS 2018
+
+90. In exploring security and privacy in this domain, it is instructive to view systems built on machine learning **through the prism of** the classical confidentiality, integrity, and availability (CIA) model.
+
+    > Towards the Science of Security and Privacy in Machine Learning, arxiv preprint, 2016
+
+91. 
 
